@@ -1,0 +1,11 @@
+/app/etc/local.xml
+/media/catalog
+/media/css
+/media/downloads
+/media/js
+/media/slider_image
+/media/menu
+/var
+error
+php_errors.log
+/includes/src
