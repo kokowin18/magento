@@ -1,0 +1,8 @@
+<layout version="0.1.0">
+      <routeurfrontend_index_index>
+           <reference name="content">
+                <block type="test/contact"  name="contact"
+                          template="test/afficher.phtml" />
+           </reference>
+      </routeurfrontend_index_index>
+</layout>
